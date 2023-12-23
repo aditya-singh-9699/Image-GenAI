@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import {BrowserRouter, Route, Routes} from 'react-router-dom'
 import Home from './components/Home'
-import NavBar from './components/Navbar'
+import NavBar from './components/NavBar'
 import NotFound from './components/NotFound'
 import ImageGenerationForm from './components/Generator'
 
